@@ -1,0 +1,13 @@
+streamlit
+Pillow
+textblob
+nltk
+string
+seaborn
+nltk.corpus
+nltk.tokenize
+nltk.sentiment.vader
+pandas
+re
+datetime
+pandas.util.testing
